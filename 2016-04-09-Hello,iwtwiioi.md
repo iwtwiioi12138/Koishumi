@@ -9,8 +9,8 @@
 
 16年使用域名
 
-- [b.iwtwiioi6.top](b.iwtwiioi6.top)
-- [blog.iwtwiioi6.top](blog.iwtwiioi6.top)
+- [b.iwtwiioi6.top](http://b.iwtwiioi6.top)
+- [blog.iwtwiioi6.top](http://blog.iwtwiioi6.top)
 
 git仓库
 [https://github.com/iwtwiioi12138/Koishumi.git](https://github.com/iwtwiioi12138/Koishumi.git)
